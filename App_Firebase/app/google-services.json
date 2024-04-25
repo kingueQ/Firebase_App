@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1069873765351",
+    "project_id": "fir-appejemplo-a8dfa",
+    "storage_bucket": "fir-appejemplo-a8dfa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069873765351:android:68006848a0433d8ee3fb42",
+        "android_client_info": {
+          "package_name": "mx.edu.itson.potros.app_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJjSw0OXT1ONxVb1hW9oGtX2ots0ylUTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
